@@ -1,0 +1,25 @@
+td{
+	font-size: 20px;
+	background-color: #ededed;
+}
+h1{
+	text-align: center;
+	color: #07238c;
+}
+tr{
+	text-align: center;
+}
+.header{
+	color: black;
+	font-size: 50px;
+}
+.week_day{
+	color: #110a4c;
+}
+
+#day{
+	background-color: #d8d7e0;
+}
+#group{
+	background-color: #908f91;
+}
